@@ -121,3 +121,5 @@ const AirpodsSlider = () => {
 };
 
 export default AirpodsSlider;
+
+// Video => https://www.youtube.com/watch?v=hfGz5AgHT-E&list=LL&index=10
